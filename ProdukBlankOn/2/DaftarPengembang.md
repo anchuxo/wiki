@@ -47,7 +47,7 @@ Tim Dokumentasi
   - Ainul Hakim
   - Andika Triwidada 
   - padmawan
-  - [Antonius Fran Setiawan](https://launchpad.net/~bludsign)
-  - [Mahyuddin Susanto](https://launchpad.net/~udienz)
-  - [Arif Rohman Hakim](http://dev.blankonlinux.or.id/wiki/arifrohman1) 
+  - Antonius Fran Setiawan (https://launchpad.net/~bludsign)
+  - Mahyuddin Susanto (https://launchpad.net/~udienz)
+  - Arif Rohman Hakim (http://dev.blankonlinux.or.id/wiki/arifrohman1) 
 
